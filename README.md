@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 💬 Ask me about **Android Studio, Firebase**
+- 💬 Ask me about **Android Studio, Cloud Firebase, Kotlin, Java, MySQL, Data Structures**
 
 - 📫 How to reach me **maharajdey23@gmail.com**
 
